@@ -1,5 +1,7 @@
 # 🍕 Pizza Evaluator 🍕
 
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)
+
 **Find, vote, and compare the best pizzas on the market. A full-stack platform for pizza lovers.**
 
 ![Application Flow](screenshots/pizzaEvaluator.gif)
@@ -44,6 +46,7 @@ The application is built with a client-server architecture:
 -   **Vue Router**: For managing routes in this Single Page Application (SPA).
 -   **Sass (SCSS)**: For more powerful and organized styling.
 -   **Axios**: For making HTTP requests to the backend.
+-   **Generative AI for UX**: The initial user experience and interface concepts were prototyped using cutting-edge generative AI tools like [Google's Project Stitch](https://stitch.withgoogle.com/), enabling rapid design iteration.
 
 ### Backend
 -   **Node.js**: JavaScript runtime environment on the server side.
