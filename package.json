@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "bcrypt": "^6.0.0"
+  },
+  "scripts": {
+    "start": "node server/src/app.js",
+    "dev": "nodemon server/src/app.js",
+    "populate": "node server/src/populate_pizzas.js",
+    "randomize-votes": "node server/src/randomize_votes.js"
+  },
+  "keywords": [],
+  "author": "",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
